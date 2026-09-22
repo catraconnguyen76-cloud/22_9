@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Profile App</string>
+    <string name="default_profile_name">Họ tên: Chưa có thông tin</string>
+    <string name="profile_name_format">Họ tên: %1$s</string>
+    <string name="btn_edit_info">Chỉnh sửa thông tin</string>
+    <string name="label_enter_new_name">Nhập họ tên mới:</string>
+    <string name="hint_enter_name">Nhập họ tên</string>
+    <string name="btn_save_and_back">Lưu &amp; Quay lại</string>
+</resources>

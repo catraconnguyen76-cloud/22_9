@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Testapp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#006837</item>
+        <item name="colorPrimaryVariant">#004d28</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>
